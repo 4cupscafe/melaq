@@ -1,0 +1,57 @@
+#features {
+  padding: 2% 12%
+}
+
+.feature-box {
+  text-align: center;
+  padding: 2%;
+}
+
+h3 {
+  font-family: cursive;
+  font-weight: bold;
+}
+
+.icon {
+  font-size: 3rem;
+  color: red;
+  margin-bottom: 10px;
+}
+
+.icon:hover {
+  color: blue;
+}
+
+.nav_right {
+  position: absolute;
+  right: 0;
+}
+
+.bottom {
+  text-align: center;
+  font-family: cursive;
+}
+
+h5 {
+  width: 80%;
+  text-align: justify;
+  font-family: cursive;
+}
+
+video {
+  margin-top: 20px;
+  border: 5px solid;
+}
+
+div {
+  text-align: center;
+}
+
+#Pricing {
+  padding: 2% 8%;
+  text-align: center;
+}
+
+#contact {
+  padding-top: 100px;
+}
